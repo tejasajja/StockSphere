@@ -1,0 +1,2012 @@
+[
+    {
+        "_id": "661b140e5a787731bd91c533",
+        "customer_id": 49614,
+        "username": "crusso",
+        "email": "crusso@infs.com",
+        "hashed_password": "f69d7cfe69a4bd7eaf5a3a3fdca3cbb4",
+        "balance": 5570.22,
+        "net_stock": 664.27,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1e9",
+        "customer_id": 838351,
+        "username": "kjohnston",
+        "email": "kjohnston@infs.com",
+        "hashed_password": "d60b111d9e9fa8829e0413b4f66efb5a",
+        "balance": 6076.32,
+        "net_stock": 797.7,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1ea",
+        "customer_id": 357077,
+        "username": "dmcdaniel",
+        "email": "dmcdaniel@infs.com",
+        "hashed_password": "4618faa5a0e40abe22863289f1d62249",
+        "balance": 7401.29,
+        "net_stock": 1151.34,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1eb",
+        "customer_id": 259375,
+        "username": "kwilson",
+        "email": "kwilson@infs.com",
+        "hashed_password": "0787ad9514af8c59c93107cc608565d5",
+        "balance": 7548.65,
+        "net_stock": 542.17,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1ec",
+        "customer_id": 935382,
+        "username": "jking",
+        "email": "jking@infs.com",
+        "hashed_password": "6ca59217a1b213549885b2a3aabd18ae",
+        "balance": 6010.09,
+        "net_stock": 3949.24,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1ed",
+        "customer_id": 237057,
+        "username": "pcarr",
+        "email": "pcarr@infs.com",
+        "hashed_password": "5c21200a627aa3106a91eeec2995131f",
+        "balance": 5913.58,
+        "net_stock": 438.39,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1ee",
+        "customer_id": 707311,
+        "username": "obarker",
+        "email": "obarker@infs.com",
+        "hashed_password": "72e3857b81719590f8d49d135dff4d75",
+        "balance": 8929.19,
+        "net_stock": 3684.0,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1ef",
+        "customer_id": 821488,
+        "username": "dhoward",
+        "email": "dhoward@infs.com",
+        "hashed_password": "343511cac1679f807df0874f0d0d54a6",
+        "balance": 2198.98,
+        "net_stock": 4104.2,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f0",
+        "customer_id": 978312,
+        "username": "cgoodwin",
+        "email": "cgoodwin@infs.com",
+        "hashed_password": "e2465281578bd86f1893ba934c309ba6",
+        "balance": 8792.37,
+        "net_stock": 881.14,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f1",
+        "customer_id": 778829,
+        "username": "kjones",
+        "email": "kjones@infs.com",
+        "hashed_password": "08ab148748ef74524b351c9a346ee09e",
+        "balance": 5467.36,
+        "net_stock": 4642.26,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f2",
+        "customer_id": 927546,
+        "username": "dcastro",
+        "email": "dcastro@infs.com",
+        "hashed_password": "2ca856f4307667a0443d21ca98a50799",
+        "balance": 7192.56,
+        "net_stock": 1772.5,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f3",
+        "customer_id": 227310,
+        "username": "sbanks",
+        "email": "sbanks@infs.com",
+        "hashed_password": "cf20e6d5145971bba9f980d7045c721c",
+        "balance": 9277.56,
+        "net_stock": 276.11,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f4",
+        "customer_id": 306069,
+        "username": "chughes",
+        "email": "chughes@infs.com",
+        "hashed_password": "385d165cdc4e7be49b9e29904c1aa0ac",
+        "balance": 6362.92,
+        "net_stock": 818.35,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f5",
+        "customer_id": 809089,
+        "username": "rhenry",
+        "email": "rhenry@infs.com",
+        "hashed_password": "d0ecf10088985c4cbda8b5c6162f3e2d",
+        "balance": 1512.92,
+        "net_stock": 1813.71,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f6",
+        "customer_id": 554672,
+        "username": "bwilliams",
+        "email": "bwilliams@infs.com",
+        "hashed_password": "be8274da95fcfe7045bebedbd7086df3",
+        "balance": 4451.53,
+        "net_stock": 2856.27,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f7",
+        "customer_id": 385658,
+        "username": "snguyen",
+        "email": "snguyen@infs.com",
+        "hashed_password": "34f36e5570fe1aa235d719542f5c4604",
+        "balance": 4635.73,
+        "net_stock": 3639.98,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f8",
+        "customer_id": 599163,
+        "username": "mking",
+        "email": "mking@infs.com",
+        "hashed_password": "562190ac4f753d178b426afaab1ee2a2",
+        "balance": 8868.99,
+        "net_stock": 2028.08,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1f9",
+        "customer_id": 974840,
+        "username": "dball",
+        "email": "dball@infs.com",
+        "hashed_password": "614b603bb6d6081331648b6689dc99ee",
+        "balance": 6905.24,
+        "net_stock": 2003.5,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1fa",
+        "customer_id": 171790,
+        "username": "cmontgomery",
+        "email": "cmontgomery@infs.com",
+        "hashed_password": "c0edd81deca00dbe7f2a9234b4dba286",
+        "balance": 5978.77,
+        "net_stock": 4423.9,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1fb",
+        "customer_id": 75079,
+        "username": "rcoleman",
+        "email": "rcoleman@infs.com",
+        "hashed_password": "bcf9a044ad66a1e7e4ae4b1bcfe0e891",
+        "balance": 5613.81,
+        "net_stock": 4716.7,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1fc",
+        "customer_id": 15987,
+        "username": "aalexander",
+        "email": "aalexander@infs.com",
+        "hashed_password": "729207bc29530ee058c8dc2a5fd4ac56",
+        "balance": 5886.75,
+        "net_stock": 3894.33,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1fd",
+        "customer_id": 375579,
+        "username": "jgordon",
+        "email": "jgordon@infs.com",
+        "hashed_password": "81581ceef697ba53ee6ff65ad00d1a4d",
+        "balance": 1013.65,
+        "net_stock": 4828.71,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1fe",
+        "customer_id": 268890,
+        "username": "pcasey",
+        "email": "pcasey@infs.com",
+        "hashed_password": "5807045a037477f330bea542f3f66172",
+        "balance": 3664.35,
+        "net_stock": 2868.08,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f1ff",
+        "customer_id": 429158,
+        "username": "randerson",
+        "email": "randerson@infs.com",
+        "hashed_password": "8d45e5317f293bceb77acb981f88d1f6",
+        "balance": 8141.52,
+        "net_stock": 2044.67,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f200",
+        "customer_id": 508174,
+        "username": "rroth",
+        "email": "rroth@infs.com",
+        "hashed_password": "5bdebc70c715a72ede75d36962985b76",
+        "balance": 2810.08,
+        "net_stock": 4112.14,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f201",
+        "customer_id": 869458,
+        "username": "mjackson",
+        "email": "mjackson@infs.com",
+        "hashed_password": "4cd409c402c4dc85772083caff0c3c95",
+        "balance": 9271.3,
+        "net_stock": 3566.26,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f202",
+        "customer_id": 921167,
+        "username": "jhunt",
+        "email": "jhunt@infs.com",
+        "hashed_password": "232083711e88a819bc010d4d8a280c1a",
+        "balance": 3182.08,
+        "net_stock": 3812.64,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f203",
+        "customer_id": 88947,
+        "username": "rcochran",
+        "email": "rcochran@infs.com",
+        "hashed_password": "f0a375c155f9a183cd06ce82c0f49ca9",
+        "balance": 7539.93,
+        "net_stock": 3249.86,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f204",
+        "customer_id": 619526,
+        "username": "bberg",
+        "email": "bberg@infs.com",
+        "hashed_password": "bfba2992cfb8eccb777b0d07f3c48b37",
+        "balance": 7896.72,
+        "net_stock": 3665.45,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f205",
+        "customer_id": 168905,
+        "username": "dholmes",
+        "email": "dholmes@infs.com",
+        "hashed_password": "eecdcea60b12e730a0992fef66c41906",
+        "balance": 1908.68,
+        "net_stock": 331.53,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f206",
+        "customer_id": 617584,
+        "username": "bbeasley",
+        "email": "bbeasley@infs.com",
+        "hashed_password": "e67e6ffd31be28905c5a990d234840df",
+        "balance": 1164.09,
+        "net_stock": 3609.59,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f207",
+        "customer_id": 532685,
+        "username": "rnewton",
+        "email": "rnewton@infs.com",
+        "hashed_password": "af1c9fb9682bd9994268f48475966c42",
+        "balance": 3605.48,
+        "net_stock": 513.85,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f208",
+        "customer_id": 958015,
+        "username": "ahale",
+        "email": "ahale@infs.com",
+        "hashed_password": "fec304e0091506e6b5277586cf7abb47",
+        "balance": 8668.52,
+        "net_stock": 2236.54,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f209",
+        "customer_id": 383693,
+        "username": "cortiz",
+        "email": "cortiz@infs.com",
+        "hashed_password": "b384ed9dfe6b39787a830891fac51fb7",
+        "balance": 8439.28,
+        "net_stock": 3493.9,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f20a",
+        "customer_id": 546625,
+        "username": "jallen",
+        "email": "jallen@infs.com",
+        "hashed_password": "6370b01b367fcf0737adaec4fbfaff38",
+        "balance": 2503.93,
+        "net_stock": 565.01,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f20b",
+        "customer_id": 739967,
+        "username": "cjones",
+        "email": "cjones@infs.com",
+        "hashed_password": "1625cbc828a348e63e2a803684f85476",
+        "balance": 3219.22,
+        "net_stock": 2656.65,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f20c",
+        "customer_id": 162320,
+        "username": "asmith",
+        "email": "asmith@infs.com",
+        "hashed_password": "9410fad42fe8b77502ff972093681b22",
+        "balance": 2611.75,
+        "net_stock": 3397.24,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f20d",
+        "customer_id": 87448,
+        "username": "esuarez",
+        "email": "esuarez@infs.com",
+        "hashed_password": "e15cf3c1364b2d36b3ae44283167677d",
+        "balance": 4943.54,
+        "net_stock": 176.4,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f20e",
+        "customer_id": 803521,
+        "username": "sguerrero",
+        "email": "sguerrero@infs.com",
+        "hashed_password": "b61bf9f39d915b5e107077b31d0d7d98",
+        "balance": 2644.58,
+        "net_stock": 3233.88,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f20f",
+        "customer_id": 854848,
+        "username": "manderson",
+        "email": "manderson@infs.com",
+        "hashed_password": "def56bd59397c26dd0614247d5f96aea",
+        "balance": 3697.79,
+        "net_stock": 264.19,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f210",
+        "customer_id": 775690,
+        "username": "agibbs",
+        "email": "agibbs@infs.com",
+        "hashed_password": "cc5411df1d26e7a99d47d31dd3ce2bdb",
+        "balance": 9793.29,
+        "net_stock": 4594.76,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f211",
+        "customer_id": 124836,
+        "username": "amd",
+        "email": "amd@infs.com",
+        "hashed_password": "4bcb4c101c85053b69ada83852f7fbc2",
+        "balance": 2293.91,
+        "net_stock": 4772.77,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f212",
+        "customer_id": 752085,
+        "username": "kcampbell",
+        "email": "kcampbell@infs.com",
+        "hashed_password": "fa1cd416d509f52c72c5f8e4f5720e95",
+        "balance": 5563.5,
+        "net_stock": 655.31,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f213",
+        "customer_id": 580814,
+        "username": "aford",
+        "email": "aford@infs.com",
+        "hashed_password": "1c261cd802ce8bcf2e2cc51babffe560",
+        "balance": 2267.09,
+        "net_stock": 3184.77,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f214",
+        "customer_id": 399407,
+        "username": "kallen",
+        "email": "kallen@infs.com",
+        "hashed_password": "78a7223b4844e5333095ce96e53ed1b3",
+        "balance": 3326.02,
+        "net_stock": 282.17,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f215",
+        "customer_id": 626051,
+        "username": "rrhodes",
+        "email": "rrhodes@infs.com",
+        "hashed_password": "9f83b9430887dccf0169855dcd20d70c",
+        "balance": 9493.79,
+        "net_stock": 2612.06,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f216",
+        "customer_id": 235711,
+        "username": "jhamilton",
+        "email": "jhamilton@infs.com",
+        "hashed_password": "4870f0b888824c699a1ca1173836c103",
+        "balance": 3904.75,
+        "net_stock": 2555.52,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f217",
+        "customer_id": 504507,
+        "username": "kbarron",
+        "email": "kbarron@infs.com",
+        "hashed_password": "1b026faa1060be29d0a1103a64643b57",
+        "balance": 8982.47,
+        "net_stock": 4696.37,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f218",
+        "customer_id": 224089,
+        "username": "jbrown",
+        "email": "jbrown@infs.com",
+        "hashed_password": "9389be248a54c0aea0cc12c9c007ef0c",
+        "balance": 7969.87,
+        "net_stock": 2920.88,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f219",
+        "customer_id": 801405,
+        "username": "mharris",
+        "email": "mharris@infs.com",
+        "hashed_password": "87cfe12bae12b85b1163b832979a5d23",
+        "balance": 6349.38,
+        "net_stock": 1950.41,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f21a",
+        "customer_id": 72917,
+        "username": "kmalone",
+        "email": "kmalone@infs.com",
+        "hashed_password": "4177fbd5013dfb6b147874d76d06f9b4",
+        "balance": 1640.68,
+        "net_stock": 4985.18,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f21b",
+        "customer_id": 917170,
+        "username": "halvarez",
+        "email": "halvarez@infs.com",
+        "hashed_password": "8f871f20facab0de2bd771bc88c5db20",
+        "balance": 3957.6,
+        "net_stock": 593.38,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f21c",
+        "customer_id": 762289,
+        "username": "mbarker",
+        "email": "mbarker@infs.com",
+        "hashed_password": "eed5edcdb370f28c56c349d0d7796992",
+        "balance": 3708.98,
+        "net_stock": 2418.18,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f21d",
+        "customer_id": 606465,
+        "username": "tjones",
+        "email": "tjones@infs.com",
+        "hashed_password": "e2401ca61daa3833f0ce74b3f8c33687",
+        "balance": 1389.81,
+        "net_stock": 3404.14,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f21e",
+        "customer_id": 622795,
+        "username": "zspencer",
+        "email": "zspencer@infs.com",
+        "hashed_password": "01f5d81fe749da17c89d346abb40205f",
+        "balance": 3594.94,
+        "net_stock": 1544.6,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f21f",
+        "customer_id": 468022,
+        "username": "jleon",
+        "email": "jleon@infs.com",
+        "hashed_password": "cebff2d5accfe8ea15ce97ef4cd62a80",
+        "balance": 1918.69,
+        "net_stock": 3274.74,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f220",
+        "customer_id": 722446,
+        "username": "rgregory",
+        "email": "rgregory@infs.com",
+        "hashed_password": "7568da0e87899d2656a4512eda607ecd",
+        "balance": 9349.2,
+        "net_stock": 3556.61,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f221",
+        "customer_id": 689605,
+        "username": "jdavis",
+        "email": "jdavis@infs.com",
+        "hashed_password": "710353f21902c524be2d202eda452ae2",
+        "balance": 5003.17,
+        "net_stock": 128.62,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f222",
+        "customer_id": 485538,
+        "username": "mhunt",
+        "email": "mhunt@infs.com",
+        "hashed_password": "94479334648973f640093574a8e31657",
+        "balance": 1939.43,
+        "net_stock": 2043.09,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f223",
+        "customer_id": 626539,
+        "username": "awright",
+        "email": "awright@infs.com",
+        "hashed_password": "2cb9dae7ca3634bf55975d38cd5e6871",
+        "balance": 6192.91,
+        "net_stock": 4061.89,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f224",
+        "customer_id": 410252,
+        "username": "jho",
+        "email": "jho@infs.com",
+        "hashed_password": "059a983a865684cb67346b969c335257",
+        "balance": 2611.4,
+        "net_stock": 4695.93,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f225",
+        "customer_id": 865545,
+        "username": "rmalone",
+        "email": "rmalone@infs.com",
+        "hashed_password": "9a469a6aff7a0709780665fe2a2d4e20",
+        "balance": 2049.67,
+        "net_stock": 2268.84,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f226",
+        "customer_id": 506237,
+        "username": "jpatel",
+        "email": "jpatel@infs.com",
+        "hashed_password": "1c23a519e2fd262df1b380580a999567",
+        "balance": 6357.16,
+        "net_stock": 2723.69,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f227",
+        "customer_id": 2230,
+        "username": "mhernandez",
+        "email": "mhernandez@infs.com",
+        "hashed_password": "d82c49702dc263cca0ac290104ba2778",
+        "balance": 2894.82,
+        "net_stock": 562.85,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f228",
+        "customer_id": 408847,
+        "username": "awatson",
+        "email": "awatson@infs.com",
+        "hashed_password": "0adf64113f9f444435933f3bed99a210",
+        "balance": 6215.39,
+        "net_stock": 400.89,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f229",
+        "customer_id": 409357,
+        "username": "yanderson",
+        "email": "yanderson@infs.com",
+        "hashed_password": "52906b6ce30c60e20e0e8b0cbaecdfc9",
+        "balance": 1507.42,
+        "net_stock": 2455.28,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f22a",
+        "customer_id": 578871,
+        "username": "nramsey",
+        "email": "nramsey@infs.com",
+        "hashed_password": "dee8bb997dc15471b639ca1e446cf579",
+        "balance": 5519.63,
+        "net_stock": 716.61,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f22b",
+        "customer_id": 507205,
+        "username": "jhutchinson",
+        "email": "jhutchinson@infs.com",
+        "hashed_password": "7bde9dcac0c33862fac5799c7153005a",
+        "balance": 3388.0,
+        "net_stock": 1482.14,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f22c",
+        "customer_id": 874689,
+        "username": "knorton",
+        "email": "knorton@infs.com",
+        "hashed_password": "3b54134a9b27b84500ac05a84710a3b0",
+        "balance": 2994.34,
+        "net_stock": 3094.68,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f22d",
+        "customer_id": 848896,
+        "username": "srobinson",
+        "email": "srobinson@infs.com",
+        "hashed_password": "8eb28bc869407391c817bd143818d96c",
+        "balance": 2665.08,
+        "net_stock": 2385.81,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f22e",
+        "customer_id": 59524,
+        "username": "nthomas",
+        "email": "nthomas@infs.com",
+        "hashed_password": "3c3fa92eb21d303fc043833ddc9c71aa",
+        "balance": 8601.09,
+        "net_stock": 1619.24,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f22f",
+        "customer_id": 29519,
+        "username": "cwilson",
+        "email": "cwilson@infs.com",
+        "hashed_password": "ceb3eb8537f07360fbbbbfd6b0c4ff54",
+        "balance": 1539.24,
+        "net_stock": 2478.07,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f230",
+        "customer_id": 616901,
+        "username": "jthomas",
+        "email": "jthomas@infs.com",
+        "hashed_password": "f98a84e54527044cf9868b335c96293b",
+        "balance": 3758.49,
+        "net_stock": 4038.34,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f231",
+        "customer_id": 273625,
+        "username": "mosborne",
+        "email": "mosborne@infs.com",
+        "hashed_password": "b68bea8ed2a6a5ec0d35787aa9717a66",
+        "balance": 8890.05,
+        "net_stock": 4498.75,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f232",
+        "customer_id": 64584,
+        "username": "ccantu",
+        "email": "ccantu@infs.com",
+        "hashed_password": "be9e9984e56957da45d713bc52d0b033",
+        "balance": 6627.72,
+        "net_stock": 4126.05,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f233",
+        "customer_id": 977656,
+        "username": "dwhite",
+        "email": "dwhite@infs.com",
+        "hashed_password": "135436c03e7e11c14b3f7a066ba15578",
+        "balance": 2813.07,
+        "net_stock": 794.28,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f234",
+        "customer_id": 929771,
+        "username": "pcalderon",
+        "email": "pcalderon@infs.com",
+        "hashed_password": "cbb1a84ff370cac46aa0330c8391e6c6",
+        "balance": 2570.74,
+        "net_stock": 4899.51,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f235",
+        "customer_id": 149408,
+        "username": "rleonard",
+        "email": "rleonard@infs.com",
+        "hashed_password": "e5c8dcfd3bd2b77684bf5868516fd6a6",
+        "balance": 2428.87,
+        "net_stock": 2309.01,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f236",
+        "customer_id": 964965,
+        "username": "sjackson",
+        "email": "sjackson@infs.com",
+        "hashed_password": "f318579729bf3d5d47e28185e6ee61c5",
+        "balance": 1265.16,
+        "net_stock": 163.89,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f237",
+        "customer_id": 471390,
+        "username": "eperry",
+        "email": "eperry@infs.com",
+        "hashed_password": "bf9ad3fa6771b539abdd3e42c3e60f81",
+        "balance": 5020.03,
+        "net_stock": 1325.26,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f238",
+        "customer_id": 786513,
+        "username": "ahuang",
+        "email": "ahuang@infs.com",
+        "hashed_password": "959a6e47e0eb38e7dc3c5c8d9f445fc9",
+        "balance": 9208.2,
+        "net_stock": 4765.32,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f239",
+        "customer_id": 693731,
+        "username": "kgarcia",
+        "email": "kgarcia@infs.com",
+        "hashed_password": "753e54c8a575690d7ab3220bb5f9af78",
+        "balance": 6278.2,
+        "net_stock": 4852.4,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f23a",
+        "customer_id": 841829,
+        "username": "fellison",
+        "email": "fellison@infs.com",
+        "hashed_password": "47e57e1d3c3d7085c4825aed61b9dcd1",
+        "balance": 5363.05,
+        "net_stock": 3006.23,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f23b",
+        "customer_id": 528532,
+        "username": "rjackson",
+        "email": "rjackson@infs.com",
+        "hashed_password": "6ba25a42a74f19d18dac2f61ea67e510",
+        "balance": 7726.04,
+        "net_stock": 4406.62,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f23c",
+        "customer_id": 987914,
+        "username": "sacosta",
+        "email": "sacosta@infs.com",
+        "hashed_password": "aad729ec8f2acdffc2cb8e17061f6290",
+        "balance": 5038.24,
+        "net_stock": 2020.58,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f23d",
+        "customer_id": 385980,
+        "username": "kfields",
+        "email": "kfields@infs.com",
+        "hashed_password": "b5b1a1af7e16a40399090d3076d5ef14",
+        "balance": 3385.56,
+        "net_stock": 3401.53,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f23e",
+        "customer_id": 266647,
+        "username": "jfox",
+        "email": "jfox@infs.com",
+        "hashed_password": "26a9d91f52d1acb9b7cb7e0dfdbd9e2b",
+        "balance": 9886.48,
+        "net_stock": 3666.81,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f23f",
+        "customer_id": 854043,
+        "username": "dchurch",
+        "email": "dchurch@infs.com",
+        "hashed_password": "d0e53ab92d3f30f7100f55ffa97827eb",
+        "balance": 8804.24,
+        "net_stock": 432.49,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f240",
+        "customer_id": 114671,
+        "username": "alee",
+        "email": "alee@infs.com",
+        "hashed_password": "e50f84df8ff83c1ba998ecc27b0b8f79",
+        "balance": 9994.68,
+        "net_stock": 37.52,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f241",
+        "customer_id": 337929,
+        "username": "klogan",
+        "email": "klogan@infs.com",
+        "hashed_password": "aeeb56ae5c650e1a6ddba5a4ca5f23bd",
+        "balance": 3668.22,
+        "net_stock": 437.32,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f242",
+        "customer_id": 243914,
+        "username": "kparker",
+        "email": "kparker@infs.com",
+        "hashed_password": "2d42cc13730d0184480146ca50d47220",
+        "balance": 4606.33,
+        "net_stock": 4548.46,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f243",
+        "customer_id": 612948,
+        "username": "jward",
+        "email": "jward@infs.com",
+        "hashed_password": "22249064b102bfa529fffa7778eef9a7",
+        "balance": 5837.18,
+        "net_stock": 4402.26,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f244",
+        "customer_id": 561492,
+        "username": "wwilliams",
+        "email": "wwilliams@infs.com",
+        "hashed_password": "c7cd75695b4d90988449bfa943128a5a",
+        "balance": 2948.95,
+        "net_stock": 2677.52,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f245",
+        "customer_id": 839211,
+        "username": "msanders",
+        "email": "msanders@infs.com",
+        "hashed_password": "1eb4055910b8df5edeeca0397acfd679",
+        "balance": 8308.81,
+        "net_stock": 4807.2,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f246",
+        "customer_id": 138351,
+        "username": "tsilva",
+        "email": "tsilva@infs.com",
+        "hashed_password": "4e2c15dc6e9028b3f97547d7bffeca00",
+        "balance": 1362.65,
+        "net_stock": 4560.29,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f247",
+        "customer_id": 903305,
+        "username": "mmd",
+        "email": "mmd@infs.com",
+        "hashed_password": "430d0abdff4fe1b58b97110bd33e781b",
+        "balance": 9781.9,
+        "net_stock": 886.51,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f248",
+        "customer_id": 986921,
+        "username": "bluna",
+        "email": "bluna@infs.com",
+        "hashed_password": "c1ea518d13a8e35d8ef579178bdd42be",
+        "balance": 8973.3,
+        "net_stock": 2454.54,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f249",
+        "customer_id": 351798,
+        "username": "nrhodes",
+        "email": "nrhodes@infs.com",
+        "hashed_password": "4df476f77560e185ad45fdd0ab656d71",
+        "balance": 1059.56,
+        "net_stock": 4233.88,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f24a",
+        "customer_id": 700726,
+        "username": "ndds",
+        "email": "ndds@infs.com",
+        "hashed_password": "3792c231f21edffe0a6e6b81c8efefae",
+        "balance": 9480.95,
+        "net_stock": 221.07,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f24b",
+        "customer_id": 302397,
+        "username": "ablevins",
+        "email": "ablevins@infs.com",
+        "hashed_password": "1d0c79fc0ca6292391bd49d438e96091",
+        "balance": 5301.35,
+        "net_stock": 1091.14,
+        "role": "customer"
+    },
+    {
+        "_id": "661b14414fd667f07523f24c",
+        "customer_id": 908164,
+        "username": "jcole",
+        "email": "jcole@infs.com",
+        "hashed_password": "0c8d4cc8bc91cc794c2a26b0cf5cf279",
+        "balance": 9180.31,
+        "net_stock": 1640.01,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e35",
+        "customer_id": 430503,
+        "username": "hknapp",
+        "email": "hknapp@infs.com",
+        "hashed_password": "e7d2193e9386474577a27b8c0b72aa28",
+        "balance": 6069.61,
+        "net_stock": 1031.71,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e36",
+        "customer_id": 178196,
+        "username": "csilva",
+        "email": "csilva@infs.com",
+        "hashed_password": "38330e56e0eaf899160a312fc337a930",
+        "balance": 3734.3,
+        "net_stock": 3314.48,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e37",
+        "customer_id": 83282,
+        "username": "dwalters",
+        "email": "dwalters@infs.com",
+        "hashed_password": "512bf4a29243cfc869bfb8cb52afc227",
+        "balance": 7940.78,
+        "net_stock": 2282.85,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e38",
+        "customer_id": 312389,
+        "username": "vwebster",
+        "email": "vwebster@infs.com",
+        "hashed_password": "0792e86ad3808c48a2e199cf783cf8e8",
+        "balance": 2069.52,
+        "net_stock": 4963.62,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e39",
+        "customer_id": 501864,
+        "username": "psherman",
+        "email": "psherman@infs.com",
+        "hashed_password": "15c5e3d52b5aa0a3560d239dc5601212",
+        "balance": 8499.94,
+        "net_stock": 1174.2,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e3a",
+        "customer_id": 687600,
+        "username": "jconner",
+        "email": "jconner@infs.com",
+        "hashed_password": "977686ecfd5004028d0815caeab9c697",
+        "balance": 1391.26,
+        "net_stock": 3501.45,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e3b",
+        "customer_id": 64199,
+        "username": "wlambert",
+        "email": "wlambert@infs.com",
+        "hashed_password": "2bf500cf9236d86416fbbea0266e0a16",
+        "balance": 9838.28,
+        "net_stock": 322.06,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e3c",
+        "customer_id": 746130,
+        "username": "agraves",
+        "email": "agraves@infs.com",
+        "hashed_password": "ec39d8a8a594604afe5fdfe5cbefbabf",
+        "balance": 8674.87,
+        "net_stock": 1685.31,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e3d",
+        "customer_id": 764357,
+        "username": "rbrown",
+        "email": "rbrown@infs.com",
+        "hashed_password": "f2fc104c7a07d792230ff335614c6bad",
+        "balance": 9189.23,
+        "net_stock": 4068.48,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e3e",
+        "customer_id": 297437,
+        "username": "mpeters",
+        "email": "mpeters@infs.com",
+        "hashed_password": "4092b4c3052bf1751d570ab07861032e",
+        "balance": 3253.45,
+        "net_stock": 1580.65,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e3f",
+        "customer_id": 653172,
+        "username": "snorris",
+        "email": "snorris@infs.com",
+        "hashed_password": "e8b8b3abcaa306a6e3d4d97983acb845",
+        "balance": 3601.36,
+        "net_stock": 3001.64,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e40",
+        "customer_id": 717461,
+        "username": "slee",
+        "email": "slee@infs.com",
+        "hashed_password": "3b23629af5422e0a3b413d27daf04668",
+        "balance": 3141.27,
+        "net_stock": 3334.11,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e41",
+        "customer_id": 663701,
+        "username": "kcook",
+        "email": "kcook@infs.com",
+        "hashed_password": "20ccca5c33c8e339770e423c9730b720",
+        "balance": 4029.21,
+        "net_stock": 1264.9,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e42",
+        "customer_id": 71949,
+        "username": "eallen",
+        "email": "eallen@infs.com",
+        "hashed_password": "4f61ca7cc94fd0d584e0e056c4e513dc",
+        "balance": 6303.63,
+        "net_stock": 3907.53,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e43",
+        "customer_id": 641252,
+        "username": "mgarcia",
+        "email": "mgarcia@infs.com",
+        "hashed_password": "f40c1a0f656ca557562314dc299adceb",
+        "balance": 7390.39,
+        "net_stock": 2313.36,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e44",
+        "customer_id": 723330,
+        "username": "vrice",
+        "email": "vrice@infs.com",
+        "hashed_password": "c10c4ca08885e6e6046af7136eba1639",
+        "balance": 1227.4,
+        "net_stock": 620.58,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e45",
+        "customer_id": 695381,
+        "username": "jherrera",
+        "email": "jherrera@infs.com",
+        "hashed_password": "b93db7d7ef56e0bc1f3bb6d35baef5df",
+        "balance": 9193.74,
+        "net_stock": 1055.35,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e46",
+        "customer_id": 634509,
+        "username": "omd",
+        "email": "omd@infs.com",
+        "hashed_password": "5eb94a9b9bb746c7b198b96b8d388ccd",
+        "balance": 2521.47,
+        "net_stock": 3982.47,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e47",
+        "customer_id": 502317,
+        "username": "cmarks",
+        "email": "cmarks@infs.com",
+        "hashed_password": "b2bbc3207c6a8e48ee6c185df5144193",
+        "balance": 7323.28,
+        "net_stock": 2298.42,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e48",
+        "customer_id": 90022,
+        "username": "gbraun",
+        "email": "gbraun@infs.com",
+        "hashed_password": "265e5e64ed4c85d89bea7f7c5cb1e3ea",
+        "balance": 1747.75,
+        "net_stock": 4570.62,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e49",
+        "customer_id": 976048,
+        "username": "eyork",
+        "email": "eyork@infs.com",
+        "hashed_password": "d5ee33080a3bd57d3e8a5dd1104cbfb0",
+        "balance": 7641.6,
+        "net_stock": 3724.03,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e4a",
+        "customer_id": 565694,
+        "username": "sprice",
+        "email": "sprice@infs.com",
+        "hashed_password": "b935a152da4323887e898e157fbe302c",
+        "balance": 8082.06,
+        "net_stock": 2244.72,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e4b",
+        "customer_id": 364023,
+        "username": "jblackwell",
+        "email": "jblackwell@infs.com",
+        "hashed_password": "c85a5c6996e58e02b3dc806d86247d7c",
+        "balance": 1095.7,
+        "net_stock": 3990.11,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e4c",
+        "customer_id": 420850,
+        "username": "lkelly",
+        "email": "lkelly@infs.com",
+        "hashed_password": "ca3d797057d7b92850841522785e2cdf",
+        "balance": 9469.53,
+        "net_stock": 2647.88,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e4d",
+        "customer_id": 109749,
+        "username": "dbell",
+        "email": "dbell@infs.com",
+        "hashed_password": "c52a0882c788e24f481a8f722d35cdd3",
+        "balance": 2421.38,
+        "net_stock": 3559.44,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e4e",
+        "customer_id": 515582,
+        "username": "eperez",
+        "email": "eperez@infs.com",
+        "hashed_password": "a8a30894da2a7c285ea2334e5bcf3d29",
+        "balance": 9015.35,
+        "net_stock": 1971.38,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e4f",
+        "customer_id": 3235,
+        "username": "dhoffman",
+        "email": "dhoffman@infs.com",
+        "hashed_password": "bb73e53f365fc9d8afec1ca72756f255",
+        "balance": 2972.08,
+        "net_stock": 4395.23,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e50",
+        "customer_id": 63644,
+        "username": "rleon",
+        "email": "rleon@infs.com",
+        "hashed_password": "2c8a9eead7e6dc630528d8e96bdd7465",
+        "balance": 2694.23,
+        "net_stock": 2050.63,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e51",
+        "customer_id": 855563,
+        "username": "dkhan",
+        "email": "dkhan@infs.com",
+        "hashed_password": "c813a60bddf38bcfe316953b76e2c7e2",
+        "balance": 6386.64,
+        "net_stock": 1562.33,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e52",
+        "customer_id": 849954,
+        "username": "bhart",
+        "email": "bhart@infs.com",
+        "hashed_password": "af0a02ae62361d45e7128676bba49c7d",
+        "balance": 8605.83,
+        "net_stock": 917.43,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e53",
+        "customer_id": 150214,
+        "username": "belliott",
+        "email": "belliott@infs.com",
+        "hashed_password": "96420a8b8a4f6bc8dccac6b898560a8c",
+        "balance": 6080.9,
+        "net_stock": 960.66,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e54",
+        "customer_id": 192749,
+        "username": "wryan",
+        "email": "wryan@infs.com",
+        "hashed_password": "31aff642d979866670a5def47a7e970d",
+        "balance": 4271.29,
+        "net_stock": 3896.48,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e55",
+        "customer_id": 350333,
+        "username": "mhanna",
+        "email": "mhanna@infs.com",
+        "hashed_password": "af273af634fb8905b1d3c1b31176925b",
+        "balance": 1917.29,
+        "net_stock": 526.99,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e56",
+        "customer_id": 907217,
+        "username": "jjenkins",
+        "email": "jjenkins@infs.com",
+        "hashed_password": "eb11140bf033213d9bf5deccebb539be",
+        "balance": 4666.78,
+        "net_stock": 3771.6,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e57",
+        "customer_id": 951273,
+        "username": "knorton",
+        "email": "knorton@infs.com",
+        "hashed_password": "ca64b82628e62f7487deb22dc42e604c",
+        "balance": 2458.97,
+        "net_stock": 130.57,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e58",
+        "customer_id": 587670,
+        "username": "dvalentine",
+        "email": "dvalentine@infs.com",
+        "hashed_password": "9cb753f22ae321478ee41daec6f79f10",
+        "balance": 5503.47,
+        "net_stock": 611.5,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e59",
+        "customer_id": 571077,
+        "username": "callen",
+        "email": "callen@infs.com",
+        "hashed_password": "e1e0ccaa82c478f16880f1144e80fb79",
+        "balance": 6040.45,
+        "net_stock": 4858.41,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e5a",
+        "customer_id": 253872,
+        "username": "rjordan",
+        "email": "rjordan@infs.com",
+        "hashed_password": "0acb3b33b1ebb4d7813e0caf8a8d59da",
+        "balance": 1395.27,
+        "net_stock": 1228.62,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e5b",
+        "customer_id": 871180,
+        "username": "mlove",
+        "email": "mlove@infs.com",
+        "hashed_password": "481c463865304da5301342a8cf6226f1",
+        "balance": 8956.25,
+        "net_stock": 4053.01,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e5c",
+        "customer_id": 891986,
+        "username": "lsmith",
+        "email": "lsmith@infs.com",
+        "hashed_password": "8ab2506134d64b94262204149bd5abc7",
+        "balance": 9775.87,
+        "net_stock": 2457.44,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e5d",
+        "customer_id": 260792,
+        "username": "jstevens",
+        "email": "jstevens@infs.com",
+        "hashed_password": "e81c8f6242fe10df9a14feae75d6067d",
+        "balance": 8792.35,
+        "net_stock": 4778.29,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e5e",
+        "customer_id": 472973,
+        "username": "jpierce",
+        "email": "jpierce@infs.com",
+        "hashed_password": "14a47e7997646f5a1dfce22b90020a97",
+        "balance": 4585.49,
+        "net_stock": 4011.5,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e5f",
+        "customer_id": 326763,
+        "username": "dlittle",
+        "email": "dlittle@infs.com",
+        "hashed_password": "ae359db7d8bab8afbed1b5a160dd990b",
+        "balance": 8447.45,
+        "net_stock": 4656.86,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e60",
+        "customer_id": 680826,
+        "username": "bgordon",
+        "email": "bgordon@infs.com",
+        "hashed_password": "567b0260408190f5826e1a791fd88994",
+        "balance": 7518.63,
+        "net_stock": 2645.08,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e61",
+        "customer_id": 753232,
+        "username": "bbennett",
+        "email": "bbennett@infs.com",
+        "hashed_password": "2aa993e68f3249a24c4a4898347f27d7",
+        "balance": 7416.87,
+        "net_stock": 2061.03,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e62",
+        "customer_id": 876367,
+        "username": "cdds",
+        "email": "cdds@infs.com",
+        "hashed_password": "3b8a455234f9a8cca0950f1d0244469d",
+        "balance": 7922.73,
+        "net_stock": 1021.98,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e63",
+        "customer_id": 641119,
+        "username": "aavery",
+        "email": "aavery@infs.com",
+        "hashed_password": "b5a931631bba43c8a3f8df1097b760a4",
+        "balance": 2240.99,
+        "net_stock": 1562.77,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e64",
+        "customer_id": 110933,
+        "username": "aedwards",
+        "email": "aedwards@infs.com",
+        "hashed_password": "40a0f7024c0d7dcd43bd900803dafcaa",
+        "balance": 6232.43,
+        "net_stock": 4743.95,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e65",
+        "customer_id": 805651,
+        "username": "egonzales",
+        "email": "egonzales@infs.com",
+        "hashed_password": "d64676edfac19f12646acb9c09daaf3e",
+        "balance": 4339.88,
+        "net_stock": 4611.89,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e66",
+        "customer_id": 30120,
+        "username": "dyoung",
+        "email": "dyoung@infs.com",
+        "hashed_password": "144944f2c99ecc0332c805bad0dec118",
+        "balance": 4527.23,
+        "net_stock": 1566.95,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e67",
+        "customer_id": 749859,
+        "username": "hmd",
+        "email": "hmd@infs.com",
+        "hashed_password": "b3f6a2ee062fea27df7d26d614beaa55",
+        "balance": 1667.4,
+        "net_stock": 1928.58,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e68",
+        "customer_id": 744069,
+        "username": "scisneros",
+        "email": "scisneros@infs.com",
+        "hashed_password": "f625d2aa2ab282e48f67f5ad5ef865bb",
+        "balance": 9882.93,
+        "net_stock": 3243.92,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e69",
+        "customer_id": 367394,
+        "username": "mbarajas",
+        "email": "mbarajas@infs.com",
+        "hashed_password": "0042d34ae44bce3bd5628ed33a64881d",
+        "balance": 9720.1,
+        "net_stock": 1076.0,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e6a",
+        "customer_id": 559372,
+        "username": "redwards",
+        "email": "redwards@infs.com",
+        "hashed_password": "da552f80327518a57824fc81212a3c19",
+        "balance": 8995.97,
+        "net_stock": 4169.8,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e6b",
+        "customer_id": 968138,
+        "username": "mtucker",
+        "email": "mtucker@infs.com",
+        "hashed_password": "f3eb954cd13c58b64958ec292aae7508",
+        "balance": 5525.93,
+        "net_stock": 639.64,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e6c",
+        "customer_id": 611624,
+        "username": "jwilliams",
+        "email": "jwilliams@infs.com",
+        "hashed_password": "1a79d7331c5ae9a3b526201868325bd2",
+        "balance": 4308.68,
+        "net_stock": 2364.72,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e6d",
+        "customer_id": 39360,
+        "username": "cfreeman",
+        "email": "cfreeman@infs.com",
+        "hashed_password": "1a0f730d71b6b558e0b80a2ac283f004",
+        "balance": 3011.66,
+        "net_stock": 3835.37,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e6e",
+        "customer_id": 999694,
+        "username": "acarey",
+        "email": "acarey@infs.com",
+        "hashed_password": "73b426934e2da0c4319b3facbdb5fbcd",
+        "balance": 5091.01,
+        "net_stock": 1675.6,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e6f",
+        "customer_id": 202416,
+        "username": "vreynolds",
+        "email": "vreynolds@infs.com",
+        "hashed_password": "9ac9711fc256bdb0783f8ca1f0bb53d7",
+        "balance": 1220.68,
+        "net_stock": 4539.14,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e70",
+        "customer_id": 923847,
+        "username": "sfrancis",
+        "email": "sfrancis@infs.com",
+        "hashed_password": "1250b7d88c1977cdb8e449884fcf5216",
+        "balance": 9836.07,
+        "net_stock": 3756.0,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e71",
+        "customer_id": 994823,
+        "username": "cmartinez",
+        "email": "cmartinez@infs.com",
+        "hashed_password": "1e1c461a74157970bb82b165de1584c8",
+        "balance": 9946.71,
+        "net_stock": 3742.44,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e72",
+        "customer_id": 616598,
+        "username": "jwood",
+        "email": "jwood@infs.com",
+        "hashed_password": "8bc6a0dfd8c28bc11669577bb99224ca",
+        "balance": 7034.23,
+        "net_stock": 2019.56,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e73",
+        "customer_id": 2672,
+        "username": "bgreene",
+        "email": "bgreene@infs.com",
+        "hashed_password": "d6d1a5a75a6099d7da9ed935995e0f99",
+        "balance": 5933.16,
+        "net_stock": 2820.65,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e74",
+        "customer_id": 716968,
+        "username": "erichards",
+        "email": "erichards@infs.com",
+        "hashed_password": "c1d0390a7b781b6bb1d5ffb950ece7e8",
+        "balance": 4554.43,
+        "net_stock": 20.87,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e75",
+        "customer_id": 470654,
+        "username": "kgates",
+        "email": "kgates@infs.com",
+        "hashed_password": "302f0d9b89a6b4d06541ae0b7c37b9bb",
+        "balance": 8781.46,
+        "net_stock": 2169.92,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e76",
+        "customer_id": 991917,
+        "username": "swilliams",
+        "email": "swilliams@infs.com",
+        "hashed_password": "a214c406bdff5d43ea0d662cbde61d74",
+        "balance": 7774.73,
+        "net_stock": 4284.85,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e77",
+        "customer_id": 590168,
+        "username": "khester",
+        "email": "khester@infs.com",
+        "hashed_password": "310b67ae11d9c1437dcc73abe642c18d",
+        "balance": 5382.32,
+        "net_stock": 1627.99,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e78",
+        "customer_id": 119120,
+        "username": "tjordan",
+        "email": "tjordan@infs.com",
+        "hashed_password": "8a83be8d55bec01e27d9701697e18c99",
+        "balance": 5122.39,
+        "net_stock": 3427.7,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e79",
+        "customer_id": 270179,
+        "username": "lmcmahon",
+        "email": "lmcmahon@infs.com",
+        "hashed_password": "8b812adbe351d836f7c01ff6ee31d0bd",
+        "balance": 4858.28,
+        "net_stock": 2559.01,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e7a",
+        "customer_id": 377885,
+        "username": "nbaker",
+        "email": "nbaker@infs.com",
+        "hashed_password": "7a7eb5f6a476e80132fad3f0f0515c3b",
+        "balance": 8290.95,
+        "net_stock": 1730.05,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e7b",
+        "customer_id": 896071,
+        "username": "gbaker",
+        "email": "gbaker@infs.com",
+        "hashed_password": "6387eb0a2b954742df0b3858eb47b5f3",
+        "balance": 3447.34,
+        "net_stock": 3561.4,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e7c",
+        "customer_id": 963004,
+        "username": "banderson",
+        "email": "banderson@infs.com",
+        "hashed_password": "933024da72a07345fdc2f5191c741b17",
+        "balance": 2736.5,
+        "net_stock": 326.64,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e7d",
+        "customer_id": 585181,
+        "username": "jmcguire",
+        "email": "jmcguire@infs.com",
+        "hashed_password": "dd5662e244560e701fadc0b5db97c6f8",
+        "balance": 4993.28,
+        "net_stock": 343.16,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e7e",
+        "customer_id": 789258,
+        "username": "pmoss",
+        "email": "pmoss@infs.com",
+        "hashed_password": "dfd263e1bff6a91efbb3dfc9e0d76fb6",
+        "balance": 8191.15,
+        "net_stock": 603.36,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e7f",
+        "customer_id": 327488,
+        "username": "jbrown",
+        "email": "jbrown@infs.com",
+        "hashed_password": "c89f1696ca03e412a14641e4275f2b06",
+        "balance": 2080.76,
+        "net_stock": 1693.85,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e80",
+        "customer_id": 616214,
+        "username": "mjohnson",
+        "email": "mjohnson@infs.com",
+        "hashed_password": "a5e694b788b94ee3aa926acf7073eb8e",
+        "balance": 6131.85,
+        "net_stock": 2653.3,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e81",
+        "customer_id": 466013,
+        "username": "callen1",
+        "email": "callen1@infs.com",
+        "hashed_password": "200ffbc0845ec4530371b965b7b41b47",
+        "balance": 7325.28,
+        "net_stock": 1165.66,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e82",
+        "customer_id": 925460,
+        "username": "sduffy",
+        "email": "sduffy@infs.com",
+        "hashed_password": "1652130a466c55db1afa019d1412e77b",
+        "balance": 1798.85,
+        "net_stock": 1645.71,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e83",
+        "customer_id": 693533,
+        "username": "mwilliams",
+        "email": "mwilliams@infs.com",
+        "hashed_password": "52c669c8d746023bd62a5b6f4314a84d",
+        "balance": 8511.81,
+        "net_stock": 3684.04,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e84",
+        "customer_id": 219986,
+        "username": "krios",
+        "email": "krios@infs.com",
+        "hashed_password": "ec41786559e9d2bcc10e9eea323c4b35",
+        "balance": 4615.65,
+        "net_stock": 2620.79,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e85",
+        "customer_id": 694950,
+        "username": "agay",
+        "email": "agay@infs.com",
+        "hashed_password": "a0d78e26a1c99a641495fa7023ad3dd3",
+        "balance": 6298.93,
+        "net_stock": 3885.9,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e86",
+        "customer_id": 575822,
+        "username": "jwashington",
+        "email": "jwashington@infs.com",
+        "hashed_password": "77618f0fde6559ada67e5e968650a24a",
+        "balance": 8564.22,
+        "net_stock": 644.59,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e87",
+        "customer_id": 279243,
+        "username": "dedwards",
+        "email": "dedwards@infs.com",
+        "hashed_password": "f3944accf9464bc7361a6e637f33015c",
+        "balance": 9941.73,
+        "net_stock": 2803.98,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e88",
+        "customer_id": 157654,
+        "username": "khudson",
+        "email": "khudson@infs.com",
+        "hashed_password": "85f5a85de84818ec0ad365153e599f84",
+        "balance": 3155.45,
+        "net_stock": 236.1,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e89",
+        "customer_id": 979197,
+        "username": "dhenderson",
+        "email": "dhenderson@infs.com",
+        "hashed_password": "6c7a60dcc69ca8c35f8280b89bf8296c",
+        "balance": 6148.82,
+        "net_stock": 2317.03,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e8a",
+        "customer_id": 721145,
+        "username": "cmd",
+        "email": "cmd@infs.com",
+        "hashed_password": "a396cf367927772e97a61f0ce2641c96",
+        "balance": 3229.2,
+        "net_stock": 1688.89,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e8b",
+        "customer_id": 118904,
+        "username": "kbriggs",
+        "email": "kbriggs@infs.com",
+        "hashed_password": "8cf95a581273be8be5836f97091ceb02",
+        "balance": 6003.79,
+        "net_stock": 530.78,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144433e40b964f8f0e8c",
+        "customer_id": 564158,
+        "username": "cmiller",
+        "email": "cmiller@infs.com",
+        "hashed_password": "04f47329ee2743b2e6f34751dc443698",
+        "balance": 2277.81,
+        "net_stock": 2538.42,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e8d",
+        "customer_id": 911996,
+        "username": "jshelton",
+        "email": "jshelton@infs.com",
+        "hashed_password": "f687acd495c8a2985aad05f201cdbc3c",
+        "balance": 4166.84,
+        "net_stock": 1322.57,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e8e",
+        "customer_id": 887534,
+        "username": "gparker",
+        "email": "gparker@infs.com",
+        "hashed_password": "be15d3e9e5131120ee755a6e1f934e2c",
+        "balance": 9266.29,
+        "net_stock": 4254.58,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e8f",
+        "customer_id": 342605,
+        "username": "rsoto",
+        "email": "rsoto@infs.com",
+        "hashed_password": "1fccf7e462214be6a2ecba1c50c9ac75",
+        "balance": 3824.67,
+        "net_stock": 4027.17,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e90",
+        "customer_id": 108733,
+        "username": "jpowell",
+        "email": "jpowell@infs.com",
+        "hashed_password": "ac173b41cbffd47c65fbb6518b2d64f8",
+        "balance": 2097.78,
+        "net_stock": 2406.67,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e91",
+        "customer_id": 728378,
+        "username": "landerson",
+        "email": "landerson@infs.com",
+        "hashed_password": "d930b73105561d7cff5a8855ff0b55fe",
+        "balance": 3626.31,
+        "net_stock": 305.32,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e92",
+        "customer_id": 220394,
+        "username": "araymond",
+        "email": "araymond@infs.com",
+        "hashed_password": "b7407b5ce5c0ee2c3de75dae2b49ae23",
+        "balance": 9938.82,
+        "net_stock": 2271.52,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e93",
+        "customer_id": 328288,
+        "username": "tvang",
+        "email": "tvang@infs.com",
+        "hashed_password": "4ad8e9c1c412d37cdf1c51af979c69da",
+        "balance": 8476.97,
+        "net_stock": 1244.55,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e94",
+        "customer_id": 79749,
+        "username": "jgarcia",
+        "email": "jgarcia@infs.com",
+        "hashed_password": "7e800e37ce9ffeaf7d6097b531e56db4",
+        "balance": 3545.27,
+        "net_stock": 387.55,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e95",
+        "customer_id": 396614,
+        "username": "acox",
+        "email": "acox@infs.com",
+        "hashed_password": "6840c1ff8c7bdf673c00e4649f813c30",
+        "balance": 4825.05,
+        "net_stock": 1887.09,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e96",
+        "customer_id": 971022,
+        "username": "kwalls",
+        "email": "kwalls@infs.com",
+        "hashed_password": "60302edcc2e420fcb0ace07d7cd80f4c",
+        "balance": 5325.61,
+        "net_stock": 3267.61,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e97",
+        "customer_id": 759847,
+        "username": "mwilson",
+        "email": "mwilson@infs.com",
+        "hashed_password": "4a44576f00e426a45933e0911c869919",
+        "balance": 8846.24,
+        "net_stock": 3851.11,
+        "role": "customer"
+    },
+    {
+        "_id": "661b144533e40b964f8f0e98",
+        "customer_id": 484433,
+        "username": "achoi",
+        "email": "achoi@infs.com",
+        "hashed_password": "c4e1bf4e3cfe52b737048209f15e0043",
+        "balance": 8535.14,
+        "net_stock": 2282.66,
+        "role": "customer"
+    }
+]

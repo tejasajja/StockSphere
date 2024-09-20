@@ -1,0 +1,151 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --navbar: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 221.2 83.2% 53.3%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 221.2 83.2% 53.3%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --navbar: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 217.2 91.2% 59.8%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 224.3 76.3% 48%;
+  }
+}
+
+.ag-theme-quartz {
+    --ag-foreground-color: #333333; /* Dark grey for text */
+    --ag-background-color: #FFFFFF; /* White background */
+    --ag-header-foreground-color: #FFFFFF; /* White header text */
+    --ag-header-background-color: #4E7AC7; /* Blue headers */
+    --ag-odd-row-background-color: #F7F7F7; /* Light grey odd rows */
+    --ag-header-column-resize-handle-color: #333333; /* Grey resize handle */
+    --ag-font-size: 14px;
+    --ag-font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+}
+
+.dark .ag-theme-quartz {
+    --ag-foreground-color: #FFFFFF; /* White text for dark mode */
+    --ag-background-color: #333333; /* Darker background */
+    --ag-header-foreground-color: #FFFFFF; /* White header text */
+    --ag-header-background-color: #4E7AC7; /* Consistent blue headers */
+    --ag-odd-row-background-color: #626060; /* Dark grey odd rows */
+    --ag-header-column-resize-handle-color: #333333; /* Consistent grey handle */
+    --ag-font-size: 14px;
+    --ag-font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+}
+.ag-theme-quartz .ag-header-cell .ag-floating-filter-input {
+  /* Your custom styles here */
+  color: #333; /* Ensuring text is dark for visibility */
+  /* White background for the input */
+}
+
+.ag-theme-quartz .ag-header-cell .ag-floating-filter-input:focus {
+  /* Styles for when the input is focused */
+  outline: none; /* Removing default outline */
+  border: 1px solid #4E7AC7; /* Adding a blue border for visibility */
+}
+
+.dark .ag-theme-quartz .ag-header-cell .ag-floating-filter-input {
+  /* Your custom styles here */
+  color: #FFFFFF; /* Ensuring text is dark for visibility */
+  /* White background for the input */
+}
+
+.dark .ag-theme-quartz .ag-header-cell .ag-floating-filter-input:focus {
+  /* Styles for when the input is focused */
+  outline: none; /* Removing default outline */
+  border: 1px solid #4E7AC7; /* Adding a blue border for visibility */
+}
+.ag-theme-quartz .ag-header-cell-label {
+  font-size: 16px; /* Slightly larger for column headings */
+  padding-bottom: 8px; /* More space under headings */
+}
+
+.ag-theme-quartz .ag-cell {
+  padding-left: 10px; /* Space before text in cells */
+  padding-right: 10px; /* Space after text in cells */
+}
+
+.ag-theme-quartz .ag-paging-panel {
+  font-size: 14px; /* Legible font size for pagination panel */
+}
+
+.h1-stock-heading {
+  margin-top: 20px; /* More vertical space from the table */
+  margin-bottom: 20px; /* Space before the table */
+  font-size: 24px; /* More prominent heading size */
+  text-align: center; /* Center aligned heading */
+}
+
+.body {
+  @apply bg-gradient-to-r from-green-700 to-gray-300 shadow-md;
+}
+.sidebar {
+  width: 250px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  transition: transform 0.3s ease-in-out;
+  transform: translateX(-100%);
+  background-color: #f4f4f4;
+  padding: 15px;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.5);
+}
+
+.sidebar.open {
+  transform: translateX(0);
+}
+
+.sidebar.closed {
+  transform: translateX(-100%);
+}
+
+.sidebar button {
+  margin-bottom: 20px;
+}
+
+.sidebar .menu a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}

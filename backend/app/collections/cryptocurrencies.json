@@ -1,0 +1,502 @@
+[
+    {
+        "_id": "661aeeb5c0120e0e98e90d66",
+        "Name": "Bitcoin",
+        "Symbol": "BTC-USD",
+        "Last_Close": 67147.72,
+        "Market_Cap": 1232188866560.0,
+        "Volume_24h": 42673688576.0,
+        "Circulating_Supply": 19681676.0,
+        "crypto_id": 1
+    },
+    {
+        "_id": "661aeeb5c0120e0e98e90d67",
+        "Name": "Ethereum",
+        "Symbol": "ETH-USD",
+        "Last_Close": 3239.3604,
+        "Market_Cap": 357424562176.0,
+        "Volume_24h": 24025419776.0,
+        "Circulating_Supply": 120070456.0,
+        "crypto_id": 2
+    },
+    {
+        "_id": "661aeeb5c0120e0e98e90d68",
+        "Name": "XRP",
+        "Symbol": "XRP-USD",
+        "Last_Close": 0.5481835,
+        "Market_Cap": 24834398208.0,
+        "Volume_24h": 3067854848.0,
+        "Circulating_Supply": 55119896576.0,
+        "crypto_id": 3
+    },
+    {
+        "_id": "661aeeb5c0120e0e98e90d69",
+        "Name": "Litecoin",
+        "Symbol": "LTC-USD",
+        "Last_Close": 86.255806,
+        "Market_Cap": 5567778304.0,
+        "Volume_24h": 1031803840.0,
+        "Circulating_Supply": 74419080.0,
+        "crypto_id": 4
+    },
+    {
+        "_id": "661aeeb5c0120e0e98e90d6a",
+        "Name": "Bitcoin Cash",
+        "Symbol": "BCH-USD",
+        "Last_Close": 534.60785,
+        "Market_Cap": 9291425792.0,
+        "Volume_24h": 1042552256.0,
+        "Circulating_Supply": 19690934.0,
+        "crypto_id": 5
+    },
+    {
+        "_id": "661aeeb5c0120e0e98e90d6b",
+        "Name": "Cardano",
+        "Symbol": "ADA-USD",
+        "Last_Close": 0.503553,
+        "Market_Cap": 15282342912.0,
+        "Volume_24h": 1060577024.0,
+        "Circulating_Supply": 35613016064.0,
+        "crypto_id": 6
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d6c",
+        "Name": "Polkadot",
+        "Symbol": "DOT-USD",
+        "Last_Close": 7.2424145,
+        "Market_Cap": 8710040576.0,
+        "Volume_24h": 562112384.0,
+        "Circulating_Supply": 1433428096.0,
+        "crypto_id": 7
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d6d",
+        "Name": "Chainlink",
+        "Symbol": "LINK-USD",
+        "Last_Close": 15.159248,
+        "Market_Cap": 7283101696.0,
+        "Volume_24h": 848425536.0,
+        "Circulating_Supply": 587099968.0,
+        "crypto_id": 8
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d6e",
+        "Name": "Stellar",
+        "Symbol": "XLM-USD",
+        "Last_Close": 0.11526594,
+        "Market_Cap": 2866668032.0,
+        "Volume_24h": 225761216.0,
+        "Circulating_Supply": 28877682688.0,
+        "crypto_id": 9
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d6f",
+        "Name": "BNB",
+        "Symbol": "BNB-USD",
+        "Last_Close": 596.28754,
+        "Market_Cap": 79168880640.0,
+        "Volume_24h": 2222682368.0,
+        "Circulating_Supply": 149534256.0,
+        "crypto_id": 10
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d70",
+        "Name": "Tether USDt",
+        "Symbol": "USDT-USD",
+        "Last_Close": 1.0003946,
+        "Market_Cap": 107595710464.0,
+        "Volume_24h": 97214267392.0,
+        "Circulating_Supply": 107359272960.0,
+        "crypto_id": 11
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d71",
+        "Name": "Solana",
+        "Symbol": "SOL-USD",
+        "Last_Close": 153.55672,
+        "Market_Cap": 57613082624.0,
+        "Volume_24h": 6813342208.0,
+        "Circulating_Supply": 446454752.0,
+        "crypto_id": 12
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d72",
+        "Name": "Dogecoin",
+        "Symbol": "DOGE-USD",
+        "Last_Close": 0.17457873,
+        "Market_Cap": 20680192000.0,
+        "Volume_24h": 3707430912.0,
+        "Circulating_Supply": 143872344064.0,
+        "crypto_id": 13
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d73",
+        "Name": "USDC",
+        "Symbol": "USDC-USD",
+        "Last_Close": 0.99991333,
+        "Market_Cap": 32103925760.0,
+        "Volume_24h": 9388794880.0,
+        "Circulating_Supply": 32065058816.0,
+        "crypto_id": 14
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d74",
+        "Name": "UNICORN Token",
+        "Symbol": "UNI-USD",
+        "Last_Close": 0.00020171025,
+        "Market_Cap": 20092.0,
+        "Volume_24h": 16.0,
+        "Circulating_Supply": 106912512.0,
+        "crypto_id": 15
+    },
+    {
+        "_id": "661aeeb6c0120e0e98e90d75",
+        "Name": "Polygon",
+        "Symbol": "MATIC-USD",
+        "Last_Close": 0.76658547,
+        "Market_Cap": 6256481792.0,
+        "Volume_24h": 671452800.0,
+        "Circulating_Supply": 9886964736.0,
+        "crypto_id": 16
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d76",
+        "Name": "Avalanche",
+        "Symbol": "AVAX-USD",
+        "Last_Close": 39.408085,
+        "Market_Cap": 11804207104.0,
+        "Volume_24h": 1115580672.0,
+        "Circulating_Supply": 377915648.0,
+        "crypto_id": 17
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d77",
+        "Name": "Algorand",
+        "Symbol": "ALGO-USD",
+        "Last_Close": 0.19407207,
+        "Market_Cap": 1279772544.0,
+        "Volume_24h": 183195520.0,
+        "Circulating_Supply": 8125782016.0,
+        "crypto_id": 18
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d78",
+        "Name": "TRON",
+        "Symbol": "TRX-USD",
+        "Last_Close": 0.11488138,
+        "Market_Cap": 9616600064.0,
+        "Volume_24h": 498570688.0,
+        "Circulating_Supply": 87646093312.0,
+        "crypto_id": 19
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d79",
+        "Name": "Ethereum Classic",
+        "Symbol": "ETC-USD",
+        "Last_Close": 29.529465,
+        "Market_Cap": 3578062592.0,
+        "Volume_24h": 500066720.0,
+        "Circulating_Supply": 146534448.0,
+        "crypto_id": 20
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d7a",
+        "Name": "Monero",
+        "Symbol": "XMR-USD",
+        "Last_Close": 122.943085,
+        "Market_Cap": 2080134144.0,
+        "Volume_24h": 47622864.0,
+        "Circulating_Supply": 18423134.0,
+        "crypto_id": 21
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d7b",
+        "Name": "EOS",
+        "Symbol": "EOS-USD",
+        "Last_Close": 0.93804425,
+        "Market_Cap": 803102784.0,
+        "Volume_24h": 314457984.0,
+        "Circulating_Supply": 1122906112.0,
+        "crypto_id": 22
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d7c",
+        "Name": "Tezos",
+        "Symbol": "XTZ-USD",
+        "Last_Close": 1.1031209,
+        "Market_Cap": 912691264.0,
+        "Volume_24h": 57525860.0,
+        "Circulating_Supply": 977912192.0,
+        "crypto_id": 23
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d7d",
+        "Name": "Neo",
+        "Symbol": "NEO-USD",
+        "Last_Close": 19.769201,
+        "Market_Cap": 1137399680.0,
+        "Volume_24h": 357402752.0,
+        "Circulating_Supply": 70538832.0,
+        "crypto_id": 24
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d7e",
+        "Name": "FTX Token",
+        "Symbol": "FTT-USD",
+        "Last_Close": 1.3866761,
+        "Market_Cap": 384451488.0,
+        "Volume_24h": 22045534.0,
+        "Circulating_Supply": 328895104.0,
+        "crypto_id": 25
+    },
+    {
+        "_id": "661aeeb7c0120e0e98e90d7f",
+        "Name": "SushiSwap",
+        "Symbol": "SUSHI-USD",
+        "Last_Close": 1.1053956,
+        "Market_Cap": 202388736.0,
+        "Volume_24h": 108601792.0,
+        "Circulating_Supply": 236121312.0,
+        "crypto_id": 26
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d80",
+        "Name": "Cosmos",
+        "Symbol": "ATOM-USD",
+        "Last_Close": 9.386351,
+        "Market_Cap": 2993923072.0,
+        "Volume_24h": 488372992.0,
+        "Circulating_Supply": 390930656.0,
+        "crypto_id": 27
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d81",
+        "Name": "VeChain",
+        "Symbol": "VET-USD",
+        "Last_Close": 0.04302525,
+        "Market_Cap": 2793907456.0,
+        "Volume_24h": 241118608.0,
+        "Circulating_Supply": 72714518528.0,
+        "crypto_id": 28
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d82",
+        "Name": "Filecoin",
+        "Symbol": "FIL-USD",
+        "Last_Close": 6.618172,
+        "Market_Cap": 2915761920.0,
+        "Volume_24h": 621724160.0,
+        "Circulating_Supply": 538328896.0,
+        "crypto_id": 29
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d83",
+        "Name": "Aave",
+        "Symbol": "AAVE-USD",
+        "Last_Close": 100.07073,
+        "Market_Cap": 1138524544.0,
+        "Volume_24h": 181437232.0,
+        "Circulating_Supply": 14801778.0,
+        "crypto_id": 30
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d84",
+        "Name": "Terra",
+        "Symbol": "LUNA1-USD",
+        "Last_Close": 0.00030586036,
+        "Market_Cap": 1768464256.0,
+        "Volume_24h": 484363680.0,
+        "Circulating_Supply": 6151072645120.0,
+        "crypto_id": 31
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d85",
+        "Name": "Kusama",
+        "Symbol": "KSM-USD",
+        "Last_Close": 33.560764,
+        "Market_Cap": 225314368.0,
+        "Volume_24h": 45308896.0,
+        "Circulating_Supply": 8470098.0,
+        "crypto_id": 32
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d86",
+        "Name": "Compound Coin",
+        "Symbol": "COMP-USD",
+        "Last_Close": 0.004861543,
+        "Market_Cap": 2593.0,
+        "Volume_24h": 39.0,
+        "Circulating_Supply": 53731717120.0,
+        "crypto_id": 33
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d87",
+        "Name": "Zcash",
+        "Symbol": "ZEC-USD",
+        "Last_Close": 23.271753,
+        "Market_Cap": 315235072.0,
+        "Volume_24h": 40550812.0,
+        "Circulating_Supply": 16328269.0,
+        "crypto_id": 34
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d88",
+        "Name": "Maker",
+        "Symbol": "MKR-USD",
+        "Last_Close": 2943.8071,
+        "Market_Cap": 2430759680.0,
+        "Volume_24h": 143312896.0,
+        "Circulating_Supply": 924709.0,
+        "crypto_id": 35
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d89",
+        "Name": "Synthetix",
+        "Symbol": "SNX-USD",
+        "Last_Close": 3.2480898,
+        "Market_Cap": 857843264.0,
+        "Volume_24h": 85067200.0,
+        "Circulating_Supply": 327769184.0,
+        "crypto_id": 36
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d8a",
+        "Name": "Dash",
+        "Symbol": "DASH-USD",
+        "Last_Close": 31.875025,
+        "Market_Cap": 322642432.0,
+        "Volume_24h": 84308800.0,
+        "Circulating_Supply": 11750103.0,
+        "crypto_id": 37
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d8b",
+        "Name": "Decred",
+        "Symbol": "DCR-USD",
+        "Last_Close": 21.218338,
+        "Market_Cap": 303458528.0,
+        "Volume_24h": 2334815.0,
+        "Circulating_Supply": 15988132.0,
+        "crypto_id": 38
+    },
+    {
+        "_id": "661aeeb8c0120e0e98e90d8c",
+        "Name": "Decentraland",
+        "Symbol": "MANA-USD",
+        "Last_Close": 0.5172613,
+        "Market_Cap": 763490240.0,
+        "Volume_24h": 139074224.0,
+        "Circulating_Supply": 1908319872.0,
+        "crypto_id": 39
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d8d",
+        "Name": "Zilliqa",
+        "Symbol": "ZIL-USD",
+        "Last_Close": 0.027957905,
+        "Market_Cap": 382073504.0,
+        "Volume_24h": 71071840.0,
+        "Circulating_Supply": 17372203008.0,
+        "crypto_id": 40
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d8e",
+        "Name": "Enjin Coin",
+        "Symbol": "ENJ-USD",
+        "Last_Close": 0.36162257,
+        "Market_Cap": 397159936.0,
+        "Volume_24h": 49674904.0,
+        "Circulating_Supply": 1379841792.0,
+        "crypto_id": 41
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d8f",
+        "Name": "Chiliz",
+        "Symbol": "CHZ-USD",
+        "Last_Close": 0.12022549,
+        "Market_Cap": 830001088.0,
+        "Volume_24h": 132429208.0,
+        "Circulating_Supply": 8888290304.0,
+        "crypto_id": 42
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d90",
+        "Name": "Qtum",
+        "Symbol": "QTUM-USD",
+        "Last_Close": 4.594171,
+        "Market_Cap": 382482848.0,
+        "Volume_24h": 117143808.0,
+        "Circulating_Supply": 104755840.0,
+        "crypto_id": 43
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d91",
+        "Name": "Basic Attention Token",
+        "Symbol": "BAT-USD",
+        "Last_Close": 0.28735647,
+        "Market_Cap": 339537440.0,
+        "Volume_24h": 155491520.0,
+        "Circulating_Supply": 1490413696.0,
+        "crypto_id": 44
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d92",
+        "Name": "Nanomatic",
+        "Symbol": "NANO-USD",
+        "Last_Close": 0.0018300182,
+        "Market_Cap": null,
+        "Volume_24h": 18.0,
+        "Circulating_Supply": null,
+        "crypto_id": 45
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d93",
+        "Name": "Waves",
+        "Symbol": "WAVES-USD",
+        "Last_Close": 2.6096861,
+        "Market_Cap": 253120544.0,
+        "Volume_24h": 120164464.0,
+        "Circulating_Supply": 114324288.0,
+        "crypto_id": 46
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d94",
+        "Name": "ICON",
+        "Symbol": "ICX-USD",
+        "Last_Close": 0.27203196,
+        "Market_Cap": 212421088.0,
+        "Volume_24h": 24125970.0,
+        "Circulating_Supply": 989282304.0,
+        "crypto_id": 47
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d95",
+        "Name": "Loopring",
+        "Symbol": "LRC-USD",
+        "Last_Close": 0.2835877,
+        "Market_Cap": 309096032.0,
+        "Volume_24h": 41511256.0,
+        "Circulating_Supply": 1366718720.0,
+        "crypto_id": 48
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d96",
+        "Name": "Ontology",
+        "Symbol": "ONT-USD",
+        "Last_Close": 0.38832197,
+        "Market_Cap": 245760432.0,
+        "Volume_24h": 174150704.0,
+        "Circulating_Supply": 875249536.0,
+        "crypto_id": 49
+    },
+    {
+        "_id": "661aeeb9c0120e0e98e90d97",
+        "Name": "BigONE Token",
+        "Symbol": "ONE-USD",
+        "Last_Close": 0.0010318494,
+        "Market_Cap": 9754415.0,
+        "Volume_24h": 8.0,
+        "Circulating_Supply": 9449080832.0,
+        "crypto_id": 50
+    }
+]

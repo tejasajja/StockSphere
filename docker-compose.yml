@@ -1,0 +1,38 @@
+version: '3'
+services:
+  backend:
+    container_name: stocksphere-backend
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - MONGO_URI=mongodb://stocksphere-mongodb:27017
+    depends_on:
+      - stocksphere-mongodb
+
+  frontend:
+    container_name: stocksphere-frontend
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+  stocksphere-mongodb:
+    container_name: stocksphere-mongodb
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - stocksphere-mongo-data:/data/db
+
+volumes:
+  stocksphere-mongo-data:
+
+networks:
+  default:
+    name: stocksphere-network
